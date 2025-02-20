@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, we are WiseVision AI Technologies</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B67F7&background=60FF7600&width=435&lines=Hi+%F0%9F%91%8B%2C+we+are+WiseVision+AI+Technologies+jump+quickly)](https://git.io/typing-svg)
 ![WiseVision Logo](IMG-20250122-WA0001.jpg)
 
 
