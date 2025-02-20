@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are WiseVision AI Technologies</h1>
-<p align="left"> ![WiseVision Logo](IMG-20250122-WA0001.jpg)</p>
+![WiseVision Logo](IMG-20250122-WA0001.jpg)
 
 <h6> WiseVision Technologies, founded in 2022, pioneers retail analytics solutions specializing in customer behavior analysis, tailored assortment evaluation by store, and advanced insights into seasonality and catchment areas. Our expertise spans affinity testing, sales forecasting, and shoplift detection, empowering retailers with actionable intelligence for operational efficiency and customer satisfaction.</h6>
 
