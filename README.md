@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 We are currently working on [Shoplift Dectection project](https://github.com/ElSangour/Shop-Lifting-Detection-Project)
-
-- 🔭 We are currently working on **Affinity Testing project**
-
-- 📫 How to reach us **contact@wisevisiontechnologies.com**
+- 📫 How to reach us **admin@wisevision.io*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
