@@ -3,8 +3,8 @@
 
 
 
-<h6>WiseVision Technologies, founded in 2022, is a company specialized in building AI solutions mainly for the retail sector, we use computer vision and machine learning to analyse the customer behaviour inside our stores then merge this data to the sales history in order to evaluate the pertinence of the proposed assortment.
-Our team is ready to help. </h6>
+<h4>WiseVision Technologies, founded in 2022, is a company specialized in building AI solutions mainly for the retail sector, we use computer vision and machine learning to analyse the customer behaviour inside our stores then merge this data to the sales history in order to evaluate the pertinence of the proposed assortment.
+Our team is ready to help. </h4>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
