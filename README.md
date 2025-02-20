@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, we are WiseVision AI Technologies</h1>
 
-![WiseVision Logo](https://github.com/WiseVision-AI-Tech/WiseVision-AI-Tech.git/IMG-20250122-WA0001.jpg)
+![WiseVision Logo](IMG-20250122-WA0001.jpg)
 
 ![WiseVision Logo](https://raw.githubusercontent.com/WiseVision-AI-Tech/WiseVision-AI-Tech.git/IMG-20250122-WA0001.jpg)
 
