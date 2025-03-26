@@ -11,7 +11,7 @@ Our team is ready to help. </h4>
 
 - 📫 How to reach us *admin@wisevision.io*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with uq:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wisevision ai technologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wisevision ai technologies" height="30" width="40" /></a>
 <a href="https://discord.gg/wisevisionaitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wisevisionaitech" height="30" width="40" /></a>
