@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7B67F7&background=60FF7600&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+we+are+WiseVision+AI+Technologies+)](https://git.io/typing-svg)
-![WiseVision Logo](IMG-20250122-WA0001.jpg)
+![WiseVision Logo](WhatsApp Image 2025-05-02 at 16.22.14.jpeg)
 
 
 
